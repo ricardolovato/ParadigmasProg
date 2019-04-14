@@ -1,0 +1,18 @@
+GHCi, version 8.6.3: http://www.haskell.org/ghc/  :? for help
+[1 of 1] Compiling Main             ( E:\\t2\t2.hs, interpreted )
+Ok, one module loaded.
+*Main> main
+Case 1,2 ou 3 : 1
+*Main> main
+Case 1,2 ou 3 : 2
+*Main> main
+Case 1,2 ou 3 : 3
+*Main>
+
+
+obs : ghci_history estava vazio 
+
+
+
+
+
